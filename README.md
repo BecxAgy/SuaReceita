@@ -1,16 +1,18 @@
-# receitasapp
+# Sua Receita
 
-A new Flutter project.
+Projeto desenvolvido em Flutter
 
-## Getting Started
+## Como funciona?
 
-This project is a starting point for a Flutter application.
+O projeto é simples mas conta com diversos mecanismos como:
 
-A few resources to get you started if this is your first Flutter project:
+- Visualizar receitas por categoria
+- Favoritar Receitas
+- Filtrar receitas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Telas
+![image](https://user-images.githubusercontent.com/100805583/215642407-dc19c605-37a5-4bf1-a162-34f7b9146d63.png)
+![image](https://user-images.githubusercontent.com/100805583/215642588-3ac71de8-f6db-436c-bec3-c157f6680f5c.png)
+![image](https://user-images.githubusercontent.com/100805583/215642777-c0020be3-c874-477d-a3a1-4f0aa0dc8670.png)
+![image](https://user-images.githubusercontent.com/100805583/215642908-a8adb553-121a-4b63-bfef-b75f374df026.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
